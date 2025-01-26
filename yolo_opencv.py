@@ -1,6 +1,6 @@
 #############################################
 # Object detection - YOLO - OpenCV
-# Author : Farheen   (sep 29 ,2024)
+# Author : Ragul S  (Jan 27 ,2025)
 ############################################
 
 import cv2
